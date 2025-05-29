@@ -1,0 +1,14 @@
+<appcast>
+  <items>
+    <item>
+      <title>Version 1.2.0</title>
+      <description>Cập nhật hiệu năng và sửa lỗi nhỏ</description>
+      <pubDate>2025-05-28T10:00:00+07:00</pubDate>
+      <enclosure
+        url="https://play.google.com/store/apps/details?id=pro.fit9.smartring"
+        version="1.2.0"
+        platform="android"
+      />
+    </item>
+  </items>
+</appcast>
