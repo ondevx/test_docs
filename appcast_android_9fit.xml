@@ -1,14 +1,14 @@
-<appcast>
-  <items>
+<rss>
+  <channel>
+    <title>9Fit Smart Ring</title>
     <item>
-      <title>Version 1.2.0</title>
-      <description>Cập nhật hiệu năng và sửa lỗi nhỏ</description>
+      <title>Version 1.2.1</title>
+      <description>Tối ưu hóa giao diện và cải thiện trải nghiệm người dùng</description>
       <pubDate>2025-05-28T10:00:00+07:00</pubDate>
       <enclosure
         url="https://play.google.com/store/apps/details?id=pro.fit9.smartring"
-        version="1.2.0"
-        platform="android"
-      />
+        sparkle:version="1.2.1"
+        platform="android" />
     </item>
-  </items>
-</appcast>
+  </channel>
+</rss>
