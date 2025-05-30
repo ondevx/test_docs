@@ -2,12 +2,12 @@
   <channel>
     <title>9Fit Smart Ring</title>
     <item>
-      <title>Version 1.2.0</title>
+      <title>Version 1.2.1</title>
       <description>Tối ưu hóa giao diện và cải thiện trải nghiệm người dùng</description>
       <pubDate>2025-05-28T10:00:00+07:00</pubDate>
       <enclosure
         url="https://apps.apple.com/vn/app/9fit-smartring/id6621224419"
-        sparkle:version="1.2.0"
+        sparkle:version="1.2.1"
         platform="ios" />
     </item>
   </channel>
